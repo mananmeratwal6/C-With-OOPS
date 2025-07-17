@@ -20,7 +20,7 @@ The repository includes practical code examples for the following OOP principles
 - ✅ **Dynamic Memory Allocation with `new` and `delete`**  
 - ✅ **File Handling with Classes** *(optional section)*  
 
-Each concept is implemented with simple and clean code, with proper comments to help understand the logic.
+Each concept is implemented with simple and clean code.
 
 Created By : Manan Meratwal
 Contact Info : mananmeratwal6@gmail.com
